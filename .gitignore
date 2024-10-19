@@ -1,0 +1,17 @@
+# Ignore virtual environments
+decoder_only_asr/asr_venv/
+streaming_asr/asr_venv/
+
+# Ignore audio files and datasets
+decoder_only_asr/data/
+*.wav
+*.flac
+*.tar.gz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+*.pth
