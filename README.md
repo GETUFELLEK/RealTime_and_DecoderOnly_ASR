@@ -1,6 +1,4 @@
-Here is a `README.md` file for the project:
 
----
 
 # Real-Time and Decoder-Only ASR Projects
 
@@ -128,7 +126,3 @@ This will start capturing audio from the microphone, process it in real-time, an
 - Improve the decoder-only ASR model’s accuracy by fine-tuning the model, training on larger datasets, and optimizing hyperparameters.
 - Add more advanced feature extraction techniques for better audio representation.
 - Expand the real-time ASR capabilities by integrating noise reduction or multi-lingual models.
-
----
-
-This `README.md` provides an overview of the ASR projects, how to install and run them, and the future improvements that could be made to enhance both systems.
